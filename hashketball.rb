@@ -4,7 +4,7 @@ require 'pry'
 
 
 def game_hash
-  :home{
+  {:home => {
     :team_name => 'Brooklyn Nets'
     :colors => ['Black', 'White']
     :players => [
@@ -54,8 +54,8 @@ def game_hash
           blocks: 11,
           slam_dunks: 1 }
       ]
-  }
-  :away{
+  },
+  :away => {
     :team_name => 'Charlotte Hornets'
     :colors => [Turquoise, Purple]
     :players => [
@@ -105,6 +105,7 @@ def game_hash
           blocks: 5,
           slam_dunks: 12 }
       ]
+  }
   }
 end
 

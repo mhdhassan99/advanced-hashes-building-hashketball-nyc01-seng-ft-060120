@@ -44,7 +44,7 @@ def game_hash
         steals: 1,
         blocks: 1,
         slam_dunks: 0 },
-      { player_name: 'Kemba Walker',
+      { player_name: 'Jason Terry',
         number: 33,
         shoe: 15,
         points: 6,
@@ -53,8 +53,6 @@ def game_hash
         steals: 7,
         blocks: 5,
         slam_dunks: 12 },
-        
-        
       ]
   }
   :away{

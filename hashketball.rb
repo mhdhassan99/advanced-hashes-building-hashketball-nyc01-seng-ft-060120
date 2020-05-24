@@ -6,8 +6,8 @@ require 'pry'
 def game_hash
   :home{
     :team_name => 'La Lakers'
-    :colors
-    :players
+    :colors => 'gold', 'purple'
+    :players =>
   }
   :away{
     :team_name

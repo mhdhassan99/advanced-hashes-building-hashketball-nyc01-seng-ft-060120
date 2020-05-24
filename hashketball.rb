@@ -8,16 +8,14 @@ def game_hash
     :team_name => 'La Lakers'
     :colors => 'gold', 'purple'
     :players => [{
-        :player_name => 'Mhd Hassan'
-        :number
-        :shoe
-        :points
-        :rebounds
-        :assists
-        :steals
-        :blocks
-        :slam_dunks
-      
+        number: 4,
+        shoe: 18,
+        points: 10,
+        rebounds: 1,
+        assists: 1,
+        steals: 2,
+        blocks: 7,
+        slam_dunks: 2
       }]
   }
   :away{

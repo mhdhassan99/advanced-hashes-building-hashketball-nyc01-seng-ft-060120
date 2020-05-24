@@ -8,7 +8,7 @@ def game_hash
     :team_name => 'La Lakers'
     :colors => 'gold', 'purple'
     :players => [{
-        :player_name
+        :player_name 
         :number
         :shoe
         :points
